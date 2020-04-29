@@ -1,4 +1,7 @@
-https://www.kaggle.com/yashrandive11/fabricfaultdetection#a00020.jpg
-http://abnt.org.br/paginampe/biblioteca/files/upload/anexos/pdf/8cc6045e6c1c8f8b77266cd5a70025c4.pdf
-http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0100-73861999000300011
-http://www.uniedu.sed.sc.gov.br/wp-content/uploads/2017/08/Disserta%C3%A7%C3%A3o-Saulo-Vargas.pdf
+https://www.kaggle.com/yashrandive11/fabricfaultdetection#a00020.jpg - dataset
+http://abnt.org.br/paginampe/biblioteca/files/upload/anexos/pdf/8cc6045e6c1c8f8b77266cd5a70025c4.pdf - sobre fios
+http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0100-73861999000300011 - artigo para ler 
+http://www.uniedu.sed.sc.gov.br/wp-content/uploads/2017/08/Disserta%C3%A7%C3%A3o-Saulo-Vargas.pdf - artigo para ler 
+https://www.hindawi.com/journals/jpho/2015/376163/ - artigo para ler 
+https://content.sciendo.com/view/journals/aut/19/4/article-p363.xml - artigo para ler 
+https://ibug.doc.ic.ac.uk/resources/fabrics/ - dataset 
